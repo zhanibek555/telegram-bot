@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ab524cc-0b55-4ab5-a759-12e0cda691c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1R69K5JLQ8AVXQGmAkgyCrzYBI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gpu_editer/gpu_editer.py" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ab524cc-0b55-4ab5-a759-12e0cda691c9" name="Default Changelist" comment="" />
+      <created>1568976611076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568976611076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="244" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1577275214478">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="629" y="244" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1577275214478" />
+    <state x="520" y="247" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1576828688010">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="520" y="247" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/65.24.1855.1056@65.24.1855.1056" timestamp="1576828688010" />
+    <state x="1011" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1577180798713">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1011" y="369" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1577180798713" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/script.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

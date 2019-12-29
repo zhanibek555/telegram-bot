@@ -1,0 +1,4 @@
+paramiko==2.4.2
+pyTelegramBotAPI==3.6.6
+requests==2.22.0
+lxml==4.4.1
